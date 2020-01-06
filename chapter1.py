@@ -5,17 +5,16 @@ print(y)
 print(x)"""
 
 #Excercise 1
-"""
 minutes = int(input("Enter your minutes"))
 second = int(input("Enter your seconds"))
 outcome = minutes * 60 + second
 print(outcome)
 
-# with Function
+#with Function
 def count_minutes(x,y):
     return x*60+y
 
-print(count_minutes(45,45))"""
+print(count_minutes(45,45))
 
 #Exercise 3
 
