@@ -17,7 +17,8 @@ def count_minutes(x,y):
 
 print(count_minutes(45,45))"""
 
-#Excercise 2
+#Exercise 3
+
 def kilo(x=10):
     return x/1.61
 
